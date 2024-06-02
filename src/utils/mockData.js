@@ -1,7 +1,7 @@
 
 
 
-const mockData =[
+const resList =[
     {
                   "id": "99759",
                   "name": "RR Durbar",
@@ -69,7 +69,7 @@ const mockData =[
                   "id": "161582",
                   "name": "Olive tree hotel",
                   "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/cc80e52fbcf808bb1c67d93575581ce7",
-                  "locality": "Bhavanipuram \n",
+                  "locality": "Bhavanipuram",
                   "areaName": "Gollapudi",
                   "costForTwo": "₹300 for two",
                   "cuisines": [
@@ -102,4 +102,4 @@ const mockData =[
     
     ]
 
-    export default mockData;
+    export default resList;
